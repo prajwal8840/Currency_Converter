@@ -158,6 +158,7 @@ Provides real-time exchange rate data.
 ## 📸 Screenshots (Add Later)
 
 > Add UI screenshots here for better presentation
+<img width="884" height="646" alt="Screenshot 2026-04-02 000230" src="https://github.com/user-attachments/assets/d844c5ed-856d-41a0-9f2d-58309b4ce07d" />
 
 
 
